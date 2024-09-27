@@ -1,4 +1,4 @@
-
+#!/usr/bin/python3
 class WaterTrapped:
     def rain(walls):
         if not walls:  # checks for empty lists
